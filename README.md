@@ -18,5 +18,5 @@ You can also try to fix this issue by applying code changes from [my fork].
 
 <!-- Links -->
 [flutter/plugins]: https://github.com/flutter/plugins/pull/2572
-[Medium]: (https://medium.com/@SDxBacon/ios-13-missing-png-transparent-background-issue-500627d5fe50)
-[my fork]: (https://github.com/flutter/plugins/pull/2572/commits/890312fb630c1621c1a09d0d108928037df0a489)
+[Medium]: https://medium.com/@SDxBacon/ios-13-missing-png-transparent-background-issue-500627d5fe50
+[my fork]: https://github.com/flutter/plugins/pull/2572/commits/890312fb630c1621c1a09d0d108928037df0a489
