@@ -1,16 +1,22 @@
-# demo
+# flutter-ios-13-png-missing-transparency
 
-A new Flutter project.
+A very simple demo application to show you iOS 13 PNG transparency missing issue.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter SDK and clone this project
+2. Put a PNG image with transparency background or parts to your device photo library.
+3. Launch the demo application with cli `flutter run`
+4. Click the floating button on the bottom right cornor to select a image from photo library.
+5. The image that been copied to your application sandbox will shown on the middle of application.
 
-A few resources to get you started if this is your first Flutter project:
+## Why
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I have write an article on [Medium] to show how to fix, and also send a pull request to [flutter/plugins].
+You can also try to fix this issue by applying code changes from [my fork].
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<!-- Links -->
+[flutter/plugins]: https://github.com/flutter/plugins/pull/2572
+[Medium]: (https://medium.com/@SDxBacon/ios-13-missing-png-transparent-background-issue-500627d5fe50)
+[my fork]: (https://github.com/flutter/plugins/pull/2572/commits/890312fb630c1621c1a09d0d108928037df0a489)
